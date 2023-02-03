@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="4" skipped="3" failures="0" errors="0" timestamp="2023-01-26T10:23:16" hostname="mtblaser" time="1.161">
+  <properties/>
+  <testcase name="robotNamesAreUnique" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="differentRobotsHaveDifferentNames" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="hasName" classname="RobotTest" time="1.16"/>
+  <testcase name="resetName" classname="RobotTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
